@@ -1,6 +1,6 @@
 [build]
-buildCommand = "pip install -r requirements.txt && playwright install chromium && playwright install-deps chromium"
+buildCommand = "pip install -r requirements.txt && PLAYWRIGHT_BROWSERS_PATH=/app/pw-browsers playwright install chromium && PLAYWRIGHT_BROWSERS_PATH=/app/pw-browsers playwright install-deps chromium"
 
 [deploy]
-startCommand = "python rr-bot.py"
+startCommand = "PLAYWRIGHT_BROWSERS_PATH=/app/pw-browsers python rr-bot.py"
 restartPolicyType = "always"
