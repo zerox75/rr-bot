@@ -25,8 +25,8 @@ CURRENCY = 2    # 1=Money     2=Gold
 # الكوكيز من متصفحك — F12 → Application → Cookies → rivalregions.com
 COOKIES = {
     # انسخ الكوكيز من المتصفح وضعها هنا، مثال:
-    # "PHPSESSID": "9mc37rbtuf79j2qeeajj8u1sbv",
-    # "rr_f":      "5392118b3e338cf3c31341b215d47ede",
+    # "PHPSESSID": "mabv0hegjvrine6ail9igji8a5",
+    # "rr_f":      "dd44ae0d0426bf0aab7955d52104c325",
 }
 
 # اختياري: URL داشبورد Replit لإرسال النتائج هناك
