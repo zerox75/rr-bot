@@ -24,8 +24,8 @@ CURRENCY = 2    # 1=Money     2=Gold
 
 # الكوكيز من متصفحك — F12 → Application → Cookies → rivalregions.com
 COOKIES = [
-    # {"name": "PHPSESSID", "value": "...", "domain": "rivalregions.com", "path": "/"},
-    # {"name": "rr_f",      "value": "...", "domain": "rivalregions.com", "path": "/"},
+    # {"name": "PHPSESSID", "value": "mabv0hegjvrine6ail9igji8a5", "domain": "rivalregions.com", "path": "/"},
+    # {"name": "rr_f",      "value": "dd44ae0d0426bf0aab7955d52104c325", "domain": "rivalregions.com", "path": "/"},
 ]
 
 # URL داشبورد Replit لإرسال النتائج
